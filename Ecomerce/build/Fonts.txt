@@ -1,0 +1,9 @@
+Fonts used in this design:
+
+Font: Work Sans
+Author: Wei Huang
+Url: http://www.fontsquirrel.com/fonts/work-sans
+
+Font: Rozha One
+Author: Indian Type Foundry
+Url: https://www.fontsquirrel.com/fonts/rozha-one
